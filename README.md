@@ -34,3 +34,18 @@ Based on the exemple of RabbitMQ's own documentation:
 
 *http://localhost:15672/*
 
+## To execute .Net applications:
+
+#### Send:
+
+*cd Send*
+*dotnet restore*
+*dotnet run*
+
+#### Receive:
+
+*cd Receive*
+*dotnet restore*
+*dotnet run*
+
+
